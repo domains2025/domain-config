@@ -2,8 +2,8 @@
   "domains": [
     "https://api1.yourdomain.com",
     "https://api2.yourdomain.com",
-    "https://api3.yourdomain.com",
-    "https://backup-api.yourdomain.com"
+    "https://api3.341273.xyz",
+    "https://api4.341273.xyz"
   ],
   "version": "1.0.1",
   "updated": "2025-06-18T10:00:00Z",
